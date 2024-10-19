@@ -1,2 +1,2 @@
 #!/data/data/com.termux/files/usr/bin/python
-import DUDU
+import DUDU.py
